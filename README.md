@@ -55,6 +55,7 @@ $ yarn dev
 ## 🧪 Deploy - Podcastr
 
 Este é um tutorial simples para podermos disponibilizar a aplicação desenvolvida na NLW#5 para a trilha de ReactJS, em produção. 
+<br>
 [Bora publicar o nosso projeto!! 🚀](https://www.notion.so/Deploy-Podcastr-2142f78ad75c4b32b2e4dc9e22c46189)
 
 ## 🔖 Layout
